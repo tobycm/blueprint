@@ -18,3 +18,17 @@ docker run -d \
 ```
 
 - Slack app: [https://api.slack.com/apps?new_app=1](https://api.slack.com/apps?new_app=1)
+
+## Step 2: Shove the variables into .env
+
+self explanatory
+
+## Step 3: ??
+
+Open your terminal and run:
+
+```sh
+./bin/dev
+```
+
+## Step 4: profit
